@@ -10,7 +10,7 @@
 6) After choosing best parameters we then plotted confusion matrix, precision matrix and recall matrix for each one. 
 7) We did same process for tfidf vectorizer at the end of this project.
 
-+---------------------+-------------+----------+
+
 |        Model        |  vectorizer | log loss |
 
 | Logistic regression | TFIDF w2vec |  0.5651  |
@@ -25,6 +25,6 @@
 
 |       XGBOOST       |    TFIDF    |  0.3396  |
 
-+---------------------+-------------+----------+
+
 
 
