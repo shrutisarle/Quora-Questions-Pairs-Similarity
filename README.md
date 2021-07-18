@@ -12,13 +12,19 @@
 
 +---------------------+-------------+----------+
 |        Model        |  vectorizer | log loss |
-+---------------------+-------------+----------+
+
 | Logistic regression | TFIDF w2vec |  0.5651  |
+
 |      Linear SVM     | TFIDF w2vec |  0.5362  |
+
 |       XGBOOST       | TFIDF w2vec |  0.3896  |
+
 | Logistic regression |    TFIDF    |  0.5001  |
+
 |      Linear SVM     |    TFIDF    |  0.5025  |
+
 |       XGBOOST       |    TFIDF    |  0.3396  |
+
 +---------------------+-------------+----------+
 
 
